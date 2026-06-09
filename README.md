@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gudipudi Likitha</h1>
+<h1 align="center">Hi 👋, I'm Gudipudi Rushitha</h1>
 <h3 align="center">A passionate Programmer from India.</h3>
 <img align ="right" alt = "coding" width = "400" src = "https://fiverr-res.cloudinary.com/videos/t_main1,q_auto,f_auto/hjhpnhysm7mj8eh9rs0w/lofi-loop-animation-nft-lofi-illustration-nft-animated-gif.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushithagudipudi&label=Profile%20views&color=0e75b6&style=flat" alt="rushithagudipudi" /> </p>
